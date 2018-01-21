@@ -1,0 +1,1 @@
+python train_frcnn.py -p /home/xth/data/cbis_ddsm/ -o cbis --num_epochs 200 --input_weight_path resnet50_weights_tf_dim_ordering_tf_kernels.h5
